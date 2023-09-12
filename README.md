@@ -6,11 +6,12 @@ The following repository contains the Jupyter Notebooks necessary for the Spark 
 
 ## Index
 
-1. [Python Refresher](./notebooks/00_Python_Refresher.ipynb)
-2. [Introduction to Spark](./notebooks/01_Introduction_to_Spark.ipynb)
-3. [Spark Data Processing](./notebooks/02_Spark_Data_Processing.ipynb)
-4. [Spark SQL](./notebooks/03_Spark_SQL.ipynb)
-5. [Spark Performance Tuning](./notebooks/04_Spark_Performance_Tuning.ipynb)
+1. [Getting Started](#getting-started)
+2. [Python Refresher](./notebooks/00_Python_Refresher.ipynb)
+3. [Introduction to Spark](./notebooks/01_Introduction_to_Spark.ipynb)
+4. [Spark Data Processing](./notebooks/02_Spark_Data_Processing.ipynb)
+5. [Spark SQL](./notebooks/03_Spark_SQL.ipynb)
+6. [Spark Performance Tuning](./notebooks/04_Spark_Performance_Tuning.ipynb)
    
 ## Getting Started
 
