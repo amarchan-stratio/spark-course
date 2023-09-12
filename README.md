@@ -38,6 +38,7 @@ To run the notebooks, we will use a Conda environment. Execute the following com
 wget https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Linux-x86_64.sh
 chmod +x Anaconda3-*-Linux-x86_64.sh
 ./Anaconda3-*-Linux-x86_64.sh
+rm Anaconda3-*-Linux-x86_64.sh
 ```
 
 Follow the prompts on the installer and accept the default settings. When finished, close and re-open your terminal window.
@@ -61,7 +62,7 @@ conda activate pyspark
 With the pyspark environment activated, install PySpark and other required libraries:
 
 ```bash
-pip install pyspark jupyter jupyterlab plotly
+pip install pyspark jupyter jupyterlab
 ```
 
 ### 5. Clone this repository:
