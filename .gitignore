@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 spark-warehouse/
-solved/
+structure.md
 Dockerfile
 non_partitioned_cost_of_living/
 partitioned_cost_of_living/
