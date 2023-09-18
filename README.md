@@ -12,6 +12,7 @@ The following repository contains the Jupyter Notebooks necessary for the Spark 
 4. [Spark Data Processing](./notebooks/02_Spark_Data_Processing.ipynb)
 5. [Spark SQL](./notebooks/03_Spark_SQL.ipynb)
 6. [Spark Performance Tuning](./notebooks/04_Spark_Performance_Tuning.ipynb)
+7. [Hadoop Distributed File System](./notebooks/05_HDFS.ipynb)
    
 ## Getting Started
 
